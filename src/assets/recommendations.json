@@ -1,0 +1,334 @@
+{
+  "general": [
+    {
+      "title": "Fulbright Scholarship",
+      "field": ["All Fields"],
+      "description": "The Fulbright Program offers scholarships for international educational exchange for students, scholars, teachers, professionals, scientists, and artists. The program aims to increase mutual understanding between the people of the United States and other countries.",
+      "image": "https://us.fulbrightonline.org/images/FulbrightProgramLogo.png"
+    },
+    {
+      "title": "Rhodes Scholarship",
+      "field": ["All Fields"],
+      "description": "The Rhodes Scholarship is an international postgraduate award for students to study at the University of Oxford. It is one of the oldest and most prestigious international scholarship programs.",
+      "image": "https://www.rhodeshouse.ox.ac.uk/media/43426/rhodes-scholarship.png"
+    },
+    {
+      "title": "Gates Millennium Scholars Program",
+      "field": ["All Fields"],
+      "description": "Funded by a grant from the Bill & Melinda Gates Foundation, the Gates Millennium Scholars Program offers good-through-graduation scholarships to students with high academic and leadership promise who have significant financial need.",
+      "image": "https://content.mediaplanet.com/images/16483/350/1700/image.jpg"
+    },
+    {
+      "title": "Chevening Scholarships",
+      "field": ["All Fields"],
+      "description": "Chevening Scholarships are the UK government's global scholarship program, funded by the Foreign and Commonwealth Office (FCO) and partner organizations. The scholarships support study at UK universities, primarily one-year master's degrees, for individuals with demonstrable potential to become future leaders, decision-makers, and opinion formers.",
+      "image": "https://www.chevening.org/wp-content/uploads/2020/06/Chevening-2.png"
+    },
+    {
+      "title": "Commonwealth Scholarships",
+      "field": ["All Fields"],
+      "description": "The Commonwealth Scholarships Commission (CSC) in the UK awards over 900 scholarships and fellowships for postgraduate study and professional development to Commonwealth citizens each year.",
+      "image": "https://cscuk.fcdo.gov.uk/wp-content/uploads/2019/05/cs-logo.png"
+    },
+    {
+      "title": "DAAD Scholarships",
+      "field": ["All Fields"],
+      "description": "The German Academic Exchange Service (DAAD) offers scholarships to highly qualified students, academics, and researchers from various fields to study in Germany.",
+      "image": "https://www.daad.de/en/medien/weltweit/1/2020/daadjapanlogo.png"
+    }
+  ],
+  "engineering": [
+    {
+      "title": "Barry Goldwater Scholarship",
+      "field": ["Engineering", "Natural Sciences", "Mathematics"],
+      "description": "The Barry Goldwater Scholarship is awarded to college sophomores and juniors who intend to pursue research careers in natural sciences, mathematics, and engineering. The program aims to provide a continuing source of highly qualified scientists, mathematicians, and engineers.",
+      "image": "https://goldwater.scholarsapply.org/wp-content/uploads/Goldwater-Logo.png"
+    },
+    {
+      "title": "National GEM Consortium Fellowship",
+      "field": ["Engineering", "Science", "Technology"],
+      "description": "The National GEM Consortium offers fellowships to underrepresented minority students pursuing graduate education in applied science and engineering. The fellowship provides financial support, mentoring, and professional development.",
+      "image": "https://www.gemfellowship.org/wp-content/uploads/2016/07/gem-logo.png"
+    },
+    {
+      "title": "Society of Women Engineers Scholarships",
+      "field": ["Engineering"],
+      "description": "The Society of Women Engineers (SWE) provides scholarships to support women pursuing ABET-accredited bachelor or graduate programs in preparation for careers in engineering, engineering technology, and computer science.",
+      "image": "https://swe.org/wp-content/uploads/2020/06/swe-logo-header.png"
+    },
+    {
+      "title": "ASME Scholarships",
+      "field": ["Mechanical Engineering", "Related Engineering Fields"],
+      "description": "The American Society of Mechanical Engineers (ASME) offers a wide range of scholarships to support students pursuing an education in mechanical engineering and closely related engineering disciplines.",
+      "image": "https://www.asme.org/getmedia/0031f43d-5396-4e34-a98b-8db0a15c22c6/asme-logo.png"
+    },
+    {
+      "title": "NSPE Engineering Scholarships",
+      "field": ["Engineering"],
+      "description": "The National Society of Professional Engineers (NSPE) provides scholarships to high school seniors, undergraduate students, and graduate students pursuing a degree in engineering. These scholarships aim to promote engineering education and support future engineers.",
+      "image": "https://www.nspe.org/sites/default/files/nspe_logo.jpg"
+    },
+    {
+      "title": "Tau Beta Pi Scholarships",
+      "field": ["Engineering"],
+      "description": "Tau Beta Pi, the engineering honor society, offers scholarships to undergraduate members to support their continuing education in engineering. Scholarships are awarded on the basis of academic achievement, extracurricular activities, and potential contributions to the engineering profession.",
+      "image": "https://www.tbp.org/graphics/tbp/logo.jpg"
+    },
+    {
+      "title": "Institute of Electrical and Electronics Engineers (IEEE) Scholarships",
+      "field": ["Electrical Engineering", "Computer Engineering", "Related Fields"],
+      "description": "IEEE offers various scholarships, grants, and fellowships to undergraduate and graduate students studying electrical engineering, computer engineering, and related fields. These awards support students in their academic and research endeavors.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/IEEE_logo.svg/1280px-IEEE_logo.svg.png"
+    }
+  ],
+  "medical": [
+    {
+      "title": "American Medical Association (AMA) Foundation Scholarships",
+      "field": ["Medicine"],
+      "description": "The AMA Foundation offers several scholarships to support medical students. These scholarships are designed to alleviate the financial burden of medical education and encourage students to pursue careers in medicine.",
+      "image": "https://www.ama-assn.org/sites/ama-assn.org/files/media-browser/public/ama-logo_0.png"
+    },
+    {
+      "title": "National Health Service Corps (NHSC) Scholarship Program",
+      "field": ["Primary Health Care"],
+      "description": "The NHSC Scholarship Program provides scholarships to students pursuing primary health care professions. In exchange, recipients commit to providing care in underserved communities upon graduation.",
+      "image": "https://nhsc.hrsa.gov/sites/default/files/nhsc/images/nhsc-logo-2019.png"
+    },
+    {
+      "title": "Herbert W. Nickens Medical Student Scholarships",
+      "field": ["Medicine"],
+      "description": "The Herbert W. Nickens Medical Student Scholarships are awarded to medical students who demonstrate leadership in efforts to eliminate health care disparities and who have a commitment to improving the health of underserved populations.",
+      "image": "https://www.aamc.org/sites/default/files/aamc-logo-2x.png"
+    },
+    {
+      "title": "Tylenol Future Care Scholarship",
+      "field": ["Health Care", "Medicine"],
+      "description": "The Tylenol Future Care Scholarship is awarded to students pursuing degrees in health care, including medicine, nursing, and pharmacy. This scholarship supports students who demonstrate academic excellence and a commitment to caring for others.",
+      "image": "https://www.tylenol.com/sites/tylenol_us/files/tyl-logo_0.png"
+    },
+    {
+      "title": "Health Professions Scholarship Program (HPSP)",
+      "field": ["Medicine", "Dentistry", "Optometry", "Veterinary Medicine"],
+      "description": "The HPSP offers scholarships to students in medical, dental, optometry, and veterinary schools. In exchange, recipients commit to service as commissioned officers in the U.S. Army, Navy, or Air Force after graduation.",
+      "image": "https://www.health.mil/-/media/Images/MHS/MHSCOMMS/mhs-logo-blue.ashx"
+    },
+    {
+      "title": "National Medical Fellowships (NMF) Scholarships",
+      "field": ["Medicine"],
+      "description": "NMF offers a variety of scholarships to underrepresented minority medical students. These scholarships aim to increase the number of minority physicians and improve access to quality health care in underserved communities.",
+      "image": "https://www.nmfonline.org/wp-content/uploads/2020/06/nmf-logo.png"
+    },
+    {
+      "title": "Association of American Medical Colleges (AAMC) Financial Aid and Scholarships",
+      "field": ["Medicine"],
+      "description": "The AAMC provides information on various financial aid options and scholarships available to medical students. These resources help students find funding opportunities to support their medical education.",
+      "image": "https://www.aamc.org/sites/default/files/aamc-logo-2x.png"
+    },
+    {
+      "title": "American Indian Graduate Center (AIGC) Scholarships",
+      "field": ["Medicine", "Health Care"],
+      "description": "The AIGC offers scholarships to American Indian and Alaska Native students pursuing degrees in medicine and health care fields. These scholarships aim to increase the representation of Native Americans in health professions.",
+      "image": "https://www.aigcs.org/wp-content/uploads/2016/08/AIGC-Logo-Website.png"
+    }
+  ],
+  "commerce": [
+    {
+      "title": "AICPA/Accountemps Student Scholarship",
+      "field": ["Accounting", "Commerce"],
+      "description": "The AICPA/Accountemps Student Scholarship provides financial assistance to outstanding students who demonstrate potential to become leaders in the accounting profession. It is aimed at undergraduate and graduate students majoring in accounting or a related field.",
+      "image": "https://www.aicpa.org/content/dam/aicpa/images/aicpa-logo.png"
+    },
+    {
+      "title": "National Society of Accountants (NSA) Scholarship",
+      "field": ["Accounting", "Commerce"],
+      "description": "The NSA Scholarship Foundation provides financial assistance to students pursuing degrees in accounting. Scholarships are awarded based on academic merit and financial need.",
+      "image": "https://www.nsacct.org/HigherLogic/System/DownloadImage.ashx?ImageId=011d5f49-244b-4ab2-8c6d-4e51eeda4c89&ForceDialog=1"
+    },
+    {
+      "title": "Ritchie-Jennings Memorial Scholarship",
+      "field": ["Commerce", "Forensic Accounting", "Criminal Justice"],
+      "description": "Offered by the Association of Certified Fraud Examiners (ACFE), this scholarship supports students pursuing careers in fraud examination, including accounting and criminal justice.",
+      "image": "https://www.acfe.com/uploadedImages/ACFE_Website/Content/General_Images/ACFE-Logo.jpg"
+    },
+    {
+      "title": "Institute of Management Accountants (IMA) Scholarship",
+      "field": ["Management Accounting", "Commerce"],
+      "description": "The IMA offers scholarships to undergraduate and graduate students who are pursuing degrees in management accounting. These scholarships are intended to help develop future leaders in the field.",
+      "image": "https://www.imanet.org/-/media/cae3adaba1a14d5d8cf68e665a17f930.ashx"
+    },
+    {
+      "title": "PCAOB Scholars Program",
+      "field": ["Accounting", "Commerce"],
+      "description": "The PCAOB Scholars Program awards merit-based scholarships to outstanding accounting students enrolled in U.S. colleges and universities. This program aims to support the next generation of auditors.",
+      "image": "https://pcaobus.org/assets/img/logo-pcaob-white.svg"
+    },
+    {
+      "title": "Finance Scholars Group Scholarship",
+      "field": ["Finance", "Commerce"],
+      "description": "The Finance Scholars Group offers scholarships to students pursuing degrees in finance. These scholarships are designed to support academic excellence and financial need.",
+      "image": "https://financescholarsgroup.com/wp-content/uploads/2021/08/Finance-Scholars-Group-logo.jpg"
+    },
+    {
+      "title": "Golden Key Undergraduate Achievement Scholarship",
+      "field": ["Business", "Commerce"],
+      "description": "Golden Key International Honour Society provides scholarships to undergraduate students who excel academically and demonstrate leadership in their field of study, including commerce.",
+      "image": "https://www.goldenkey.org/wp-content/uploads/2019/04/gk_logo_white.png"
+    },
+    {
+      "title": "Beta Gamma Sigma Scholarships",
+      "field": ["Business", "Commerce"],
+      "description": "Beta Gamma Sigma, an international business honor society, offers scholarships to top business students who are members of the society. These scholarships recognize academic excellence in the field of commerce.",
+      "image": "https://cdn.ymaws.com/www.betagammasigma.org/resource/resmgr/customlogin/bgs-logo_white_transparent.png"
+    }
+  ],
+  "math": [
+    {
+      "title": "AMS Epsilon Fund Grants for Young Scholars Programs",
+      "field": ["Mathematics"],
+      "description": "The American Mathematical Society (AMS) Epsilon Fund provides grants to support young scholars programs, which are summer math enrichment programs for mathematically talented high school students.",
+      "image": "https://www.ams.org/images/ams-logo.png"
+    },
+    {
+      "title": "Barry Goldwater Scholarship",
+      "field": ["Mathematics", "Science", "Engineering"],
+      "description": "The Barry Goldwater Scholarship is awarded to outstanding undergraduate students who intend to pursue careers in mathematics, the natural sciences, or engineering. It aims to support the next generation of leaders in these fields.",
+      "image": "https://goldwater.scholarsapply.org/wp-content/uploads/sites/46/2019/01/goldwater-logo.svg"
+    },
+    {
+      "title": "AMS Math in Moscow Scholarship",
+      "field": ["Mathematics"],
+      "description": "This scholarship supports undergraduate and graduate students who wish to attend the Math in Moscow program at the Independent University of Moscow. It offers an opportunity for in-depth study in various areas of mathematics.",
+      "image": "https://www.ams.org/images/ams-logo.png"
+    },
+    {
+      "title": "National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)",
+      "field": ["Mathematics", "Science", "Engineering"],
+      "description": "The NSF GRFP provides fellowships to outstanding graduate students in NSF-supported science, technology, engineering, and mathematics disciplines. The fellowship includes a stipend and a cost-of-education allowance.",
+      "image": "https://www.nsf.gov/pubs/2019/nsf19590/images/nsf4c-lrg.jpg"
+    },
+    {
+      "title": "Society for Industrial and Applied Mathematics (SIAM) Scholarships",
+      "field": ["Applied Mathematics"],
+      "description": "SIAM offers various scholarships and travel awards to students pursuing studies and research in applied mathematics. These scholarships support participation in SIAM conferences and other professional development activities.",
+      "image": "https://www.siam.org/Portals/0/SIAM-Logo-RGB.jpg"
+    },
+    {
+      "title": "Association for Women in Mathematics (AWM) Scholarships",
+      "field": ["Mathematics"],
+      "description": "The AWM offers several scholarships and travel grants to support women in mathematics. These scholarships aim to increase the presence of women in the field and support their academic and professional development.",
+      "image": "https://www.awm-math.org/wp-content/uploads/2020/02/AWM-logo.png"
+    },
+    {
+      "title": "Mathematical Association of America (MAA) Scholarships",
+      "field": ["Mathematics"],
+      "description": "The MAA offers various scholarships and awards to support undergraduate students majoring in mathematics. These scholarships recognize academic excellence and promote further study in mathematics.",
+      "image": "https://www.maa.org/sites/default/files/MAA_logo_stacked_RGB.png"
+    },
+    {
+      "title": "Ramanujan Prize for Young Mathematicians",
+      "field": ["Mathematics"],
+      "description": "The Ramanujan Prize is awarded to young mathematicians who have conducted outstanding research in developing countries. It recognizes significant contributions to the field of mathematics.",
+      "image": "https://ictp.it/assets/images/ramanujan/ramanujan_prize_logo_rgb.png"
+    }
+  ],
+  "law": [
+    {
+      "title": "American Bar Association (ABA) Legal Opportunity Scholarship",
+      "field": ["Law"],
+      "description": "The ABA Legal Opportunity Scholarship Fund provides financial assistance to students from racial and ethnic minority backgrounds who are pursuing a law degree. The scholarship aims to encourage diversity within the legal profession.",
+      "image": "https://www.americanbar.org/content/dam/aba/administrative/hr/aba-logo-rgb.png"
+    },
+    {
+      "title": "Sidley Diversity and Inclusion Scholarship",
+      "field": ["Law"],
+      "description": "Sidley Austin LLP offers scholarships to diverse law students who demonstrate academic excellence and a commitment to diversity and inclusion. The scholarship includes a monetary award and an invitation to the Sidley Scholars Program.",
+      "image": "https://www.sidley.com/-/media/images/logo/office-logo-600x192.jpg"
+    },
+    {
+      "title": "Justice Thurgood Marshall Scholarship",
+      "field": ["Law"],
+      "description": "Offered by various organizations and institutions, the Justice Thurgood Marshall Scholarship supports law students who demonstrate a commitment to social justice and public service, in honor of the legacy of Justice Thurgood Marshall.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Thurgood-marshall-signature.svg"
+    },
+    {
+      "title": "Latham & Watkins Diversity Scholars Program",
+      "field": ["Law"],
+      "description": "Latham & Watkins offers scholarships to law students from underrepresented backgrounds. The program includes a financial award and an opportunity to participate in a summer associate program at one of the firm's offices.",
+      "image": "https://www.lw.com/assets/img/global/logo-latham-watkins.svg"
+    },
+    {
+      "title": "Donald W. Banner Diversity Scholarship",
+      "field": ["Law"],
+      "description": "Banner & Witcoff, Ltd. offers the Donald W. Banner Diversity Scholarship to law students who demonstrate a commitment to advancing diversity in the field of intellectual property law.",
+      "image": "https://bannerwitcoff.com/wp-content/uploads/2014/01/BW-Logo-RGB-SCREEN.png"
+    },
+    {
+      "title": "American Association for Justice (AAJ) Trial Advocacy Scholarship",
+      "field": ["Law"],
+      "description": "The AAJ Trial Advocacy Scholarship is awarded to law students who have demonstrated a commitment to trial advocacy and public justice. The scholarship supports students who are preparing for careers as trial lawyers.",
+      "image": "https://www.justice.org/sites/default/files/aaaj-logo.png"
+    },
+    {
+      "title": "White & Case 1L Diversity Fellowship",
+      "field": ["Law"],
+      "description": "White & Case LLP offers a diversity fellowship to first-year law students from underrepresented backgrounds. The fellowship includes a monetary award and a summer associate position at one of the firm's offices.",
+      "image": "https://www.whitecase.com/sites/default/files/logo_whitecase_1.png"
+    },
+    {
+      "title": "National Bar Institute (NBI) Law Student Fellowship",
+      "field": ["Law"],
+      "description": "The NBI Law Student Fellowship provides financial assistance to law students who demonstrate a commitment to public service and academic excellence. The fellowship aims to support the next generation of legal professionals.",
+      "image": "https://nationalbar.org/images/logo.svg"
+    }
+  ],
+  "psychology": [
+    {
+      "title": "Elizabeth Munsterberg Koppitz Child Psychology Graduate Student Fellowship",
+      "field": ["Psychology"],
+      "description": "Offered by the American Psychological Foundation (APF), this fellowship supports graduate research projects and scholarships in child psychology, helping students with their research costs.",
+      "image": "https://www.apa.org/images/apf-logo_tcm7-159733.png"
+    },
+    {
+      "title": "Psi Chi Undergraduate Scholarships",
+      "field": ["Psychology"],
+      "description": "Psi Chi, the International Honor Society in Psychology, offers scholarships to undergraduate members who demonstrate academic excellence and are pursuing careers in psychology.",
+      "image": "https://www.psichi.org/resource/resmgr/website_graphics/logo/psichi-logo-header.jpg"
+    },
+    {
+      "title": "APF Graduate Student Scholarships",
+      "field": ["Psychology"],
+      "description": "The American Psychological Foundation offers several scholarships for graduate students in psychology. These scholarships support research and graduate studies in various subfields of psychology.",
+      "image": "https://www.apa.org/images/apf-logo_tcm7-159733.png"
+    },
+    {
+      "title": "Cynthia D. Belar Scholarship in Clinical Health Psychology",
+      "field": ["Clinical Psychology", "Health Psychology"],
+      "description": "This scholarship supports graduate students who are pursuing careers in clinical health psychology. It is designed to help students with research and educational expenses.",
+      "image": "https://www.apa.org/images/apf-logo_tcm7-159733.png"
+    },
+    {
+      "title": "Scott and Paul Pearsall Grant",
+      "field": ["Psychology"],
+      "description": "The Scott and Paul Pearsall Grant is awarded to psychology graduate students conducting research that seeks to improve the understanding of psychological pain and stigma experienced by adults with physical disabilities.",
+      "image": "https://www.apa.org/images/apf-logo_tcm7-159733.png"
+    },
+    {
+      "title": "Benton-Meier Scholarships",
+      "field": ["Neuropsychology"],
+      "description": "Offered by the American Psychological Foundation, these scholarships support graduate students specializing in neuropsychology, aiding them in their educational and research endeavors.",
+      "image": "https://www.apa.org/images/apf-logo_tcm7-159733.png"
+    },
+    {
+      "title": "APF Trauma Psychology Grant",
+      "field": ["Trauma Psychology"],
+      "description": "This grant supports graduate students conducting research in trauma psychology. The funding helps with research expenses and aims to advance the study of trauma and its effects.",
+      "image": "https://www.apa.org/images/apf-logo_tcm7-159733.png"
+    },
+    {
+      "title": "Ethel Louise Armstrong Foundation Scholarship",
+      "field": ["Psychology"],
+      "description": "The Ethel Louise Armstrong Foundation offers scholarships to female graduate students with disabilities who are pursuing degrees in psychology. The scholarship aims to support the academic goals of women with disabilities.",
+      "image": "https://www.ela.org/images/logo.png"
+    }
+  ]
+}
